@@ -29,7 +29,7 @@ def find_org_entry(
 
 
 def create_new_entry_output(
-        summary_chain: Chain,
+        summarize_chain: Chain,
         story: HackerNewsStory,
         review: Review,
         level: int = 1,
@@ -58,8 +58,8 @@ def create_new_entry_output(
 - Review comment :: {review.reason}
 """
 
-    if review.score > review_threshold_for_summarization and story.documents:
-        summary = summary_chain.run([story.documents[0]])
+    if story.documents:
+        summary = summarize_chain.run([story.documents[0]])
         result += f"""{'*' * (level + 1)} Summary
 {summary}
 """
@@ -68,20 +68,21 @@ def create_new_entry_output(
 
 
 @click.command()
-@click.option('--org-path', type=click.Path(exists=True))
-@click.option('-n', type=click.INT, default=20)
-@click.option('--verbose', type=click.BOOL, default=False)
+@click.option("--org-path", type=click.Path(exists=True))
+@click.option("-n", type=click.INT, default=20)
+@click.option("--verbose", type=click.BOOL, default=False)
 def main(org_path, n, verbose):
-    logger.info("Fetching HN top stories.")
     root = orgparse.load(org_path)
     llm = ChatOpenAI(temperature=0)
     reviewer_chain = ReviewerChain(llm=llm, verbose=verbose)
-    summary_chain = load_summarize_chain(llm, chain_type="stuff", verbose=verbose)
+    summarize_chain = load_summarize_chain(llm, chain_type="stuff", verbose=verbose)
     _create_new_entry_output = functools.partial(
         create_new_entry_output,
-        summary_chain=summary_chain,
+        summarize_chain=summarize_chain,
     )
     new_entries = []
+
+    logger.info("Fetching HN top stories.")
 
     with get_openai_callback() as cb:
         for story in tqdm(get_hn_topstories(n=n)):
@@ -104,7 +105,7 @@ def main(org_path, n, verbose):
     logger.info(f"Token usage: {cb.total_tokens} tokens.")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     logging.basicConfig(
         format="%(asctime)s %(levelname)-8s %(message)s",
         level=logging.INFO,
