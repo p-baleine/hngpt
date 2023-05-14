@@ -1,0 +1,30 @@
+* Three Companies Impersonated Millions to Influence Internet Policy
+  :PROPERTIES:
+  :Title: Three Companies Impersonated Millions to Influence Internet Policy
+  :Hacker_News_ID: 35934504
+  :END:
+
+* Instead of your Life's Purpose (2021)
+  :PROPERTIES:
+  :Title: Instead of your Life's Purpose (2021)
+  :Hacker_News_ID: 35934364
+  :END:
+
+* FreeBSD 13.2 on ThinkPad T14 (GEN1)
+  :PROPERTIES:
+  :Title: FreeBSD 13.2 on ThinkPad T14 (GEN1)
+  :Hacker_News_ID: 35934445
+  :END:
+
+* Prompt injection explained, with video, slides, and a transcript
+  :PROPERTIES:
+  :Title: Prompt injection explained, with video, slides, and a transcript
+  :Hacker_News_ID: 35929122
+  :END:
+
+* A Mathematician's Lament (2002) [pdf]
+  :PROPERTIES:
+  :Title: A Mathematician's Lament (2002) [pdf]
+  :Hacker_News_ID: 35929333
+  :END:
+

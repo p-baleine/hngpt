@@ -3,6 +3,8 @@ import logging
 import requests
 from bs4 import BeautifulSoup
 from firebase import firebase
+from langchain.docstore.document import Document
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 from pydantic import BaseModel
 from tqdm.auto import tqdm
 from typing import List, Optional
@@ -15,6 +17,9 @@ logger = logging.getLogger(__name__)
 
 
 class HackerNewsStory(BaseModel):
+
+    splitter_model_name = "gpt-3.5-turbo"
+    story_chunk_size = 2_000
 
     title: str
     id: int
@@ -33,7 +38,22 @@ class HackerNewsStory(BaseModel):
 
     @property
     def posted_at(self) -> datetime.datetime:
-        return datetime.datetime.fromtimestamp(self.time).strftime("%Y/%m/%d %H:%M")
+        return datetime.datetime.fromtimestamp(self.time)
+
+    @property
+    def documents(self) -> List[Document]:
+        if not self.soup:
+            return []
+
+        text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
+            model_name=self.splitter_model_name,
+            chunk_size=self.story_chunk_size,
+            chunk_overlap=0,
+        )
+
+        return text_splitter.create_documents(
+            [self.soup.get_text().replace("\n", " ")]
+        )
 
     def _repr_html_(self) -> str:
         return (
@@ -50,13 +70,11 @@ class HackerNewsStory(BaseModel):
         soup = None
 
         if "url" in result:
-            resp = requests.get(result["url"])
-            soup = BeautifulSoup(resp.content, "lxml")
+            soup = get_soup(result["url"])
 
         return cls(**result, soup=soup)
 
 
-@memory.cache
 def get_hn_topstories(n: int = 50) -> List[HackerNewsStory]:
     fb = firebase.FirebaseApplication(HN_BASE_URL)
     topstorie_ids = fb.get('/v0/topstories', None)
@@ -65,3 +83,8 @@ def get_hn_topstories(n: int = 50) -> List[HackerNewsStory]:
         HackerNewsStory.from_firebase_result(fb.get('/v0/item', id))
         for id in tqdm(topstorie_ids[:n])
     ]
+
+
+@memory.cache
+def get_soup(url: str) -> BeautifulSoup:
+    return BeautifulSoup(requests.get(url).content, "lxml")

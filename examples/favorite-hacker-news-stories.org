@@ -1,0 +1,313 @@
+#+title: My Favorite Hacker News Stories
+
+* [[https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html][How to Understand and Use Common Lisp]]
+  :PROPERTIES:
+  :Title: How to Understand and Use Common Lisp
+  :Hacker_News_ID: 35936463
+  :Posted_at: <2023-05-14 08:51>
+  :Review_score: 5
+  :Reviewed_at: <2023-05-14 09:26>
+  :Review_comment: The story is about Lisp, which is a technical area of interest to me. The Hacker News score is 7, indicating that it is a popular story. The story was submitted on the same day as today, which makes it more relevant and interesting.
+  :END:
+
+** Review
+- Review score :: 5
+- Reviewed at :: <2023-05-14 09:26>
+- Review comment :: The story is about Lisp, which is a technical area of interest to me. The Hacker News score is 7, indicating that it is a popular story. The story was submitted on the same day as today, which makes it more relevant and interesting.
+** Summary
+"Successful Lisp" is a book that provides an overview of Common Lisp for working programmers, introducing key concepts in an easy-to-read format and describing the format, typical use, and possible drawbacks of all important Lisp constructs. It also provides practical advice for the construction of Common Lisp programs, shows examples of how Common Lisp is best used, and illustrates and compares features of the most popular Common Lisp systems on desktop computers. The book includes discussion and examples of advanced constructs for iteration, error handling, object-oriented programming, graphical user interfaces, and threading, and supplements Common Lisp reference books and manuals with useful hands-on techniques. The author is David B. Lamkins, and the book is copyrighted and may not be reproduced without his written consent. Online distribution is restricted to the author's site.
+
+* [[https://github.com/melisgl/mgl][MGL: A Common Lisp machine learning library]]
+  :PROPERTIES:
+  :Title: MGL: A Common Lisp machine learning library
+  :Hacker_News_ID: 35927790
+  :Posted_at: <2023-05-13 12:38>
+  :Review_score: 5
+  :Reviewed_at: <2023-05-14 09:26>
+  :Review_comment: The story is about Lisp, which is a technical area of interest. The Hacker News score is high (39), indicating that it is a popular story. The story was submitted on 2023-05-13, which is recent and increases the level of interest.
+  :END:
+
+** Review
+- Review score :: 5
+- Reviewed at :: <2023-05-14 09:26>
+- Review comment :: The story is about Lisp, which is a technical area of interest. The Hacker News score is high (39), indicating that it is a popular story. The story was submitted on 2023-05-13, which is recent and increases the level of interest.
+** Summary
+The GitHub repository "melisgl/mgl" is a Common Lisp machine learning library with 369 stars and 32 forks. It is licensed under the MIT license and has 5 issues and 0 pull requests. The repository also offers various features such as code review, code management, and collaboration tools.
+
+* [[https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html][OpenSnitch in Debian ready for prime time]]
+  :PROPERTIES:
+  :Title: OpenSnitch in Debian ready for prime time
+  :Hacker_News_ID: 35936044
+  :Posted_at: <2023-05-14 07:18>
+  :Review_score: 2
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is about a technical area that interests me (Python), but it is not a particularly recent story (from 2023-05-14) and has a relatively low Hacker News score (26).
+  :END:
+
+** Review
+- Review score :: 2
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is about a technical area that interests me (Python), but it is not a particularly recent story (from 2023-05-14) and has a relatively low Hacker News score (26).
+** Summary
+The interactive application firewall OpenSnitch package in Debian is now ready for use after some delays due to missing packages. The latest fixes are now available for Debian Bookworm, and a bug in the package dependencies has been fixed. The package is still unable to build its eBPF module within Debian, but it has already proven its worth in discovering surprising connections from programs believed to work offline. Users can test the package by installing it with "apt install opensnitch" in Bookworm. Bitcoin donations are accepted for support.
+
+* [[https://phys.org/news/2023-04-genomes-species-redefine-mammalian-tree.html][Researchers use genomes of 241 species to redefine mammalian tree of life]]
+  :PROPERTIES:
+  :Title: Researchers use genomes of 241 species to redefine mammalian tree of life
+  :Hacker_News_ID: 35924483
+  :Posted_at: <2023-05-13 01:18>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas that interest me.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas that interest me.
+
+* [[https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/][Kudzu, the vine that never ate the south]]
+  :PROPERTIES:
+  :Title: Kudzu, the vine that never ate the south
+  :Hacker_News_ID: 35934578
+  :Posted_at: <2023-05-14 01:45>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://dl.acm.org/doi/pdf/10.1145/3519939.3523443][A Flexible Type System for Fearless Concurrency]]
+  :PROPERTIES:
+  :Title: A Flexible Type System for Fearless Concurrency
+  :Hacker_News_ID: 35917717
+  :Posted_at: <2023-05-12 15:37>
+  :Review_score: 5
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is about a technical area that interests me (concurrency), has a high Hacker News score (91), and was submitted recently (2023-05-12).
+  :END:
+
+** Review
+- Review score :: 5
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is about a technical area that interests me (concurrency), has a high Hacker News score (91), and was submitted recently (2023-05-12).
+** Summary
+The text is the beginning of a PDF file and includes the version number and object information.
+
+* [[https://twitter.com/jimmy_wales/status/1657494022741426180][What Wikipedia Did]]
+  :PROPERTIES:
+  :Title: What Wikipedia Did
+  :Hacker_News_ID: 35935714
+  :Posted_at: <2023-05-14 06:08>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas that interest you.
+
+* [[https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence][Three Companies Impersonated Millions to Influence Internet Policy]]
+  :PROPERTIES:
+  :Title: Three Companies Impersonated Millions to Influence Internet Policy
+  :Hacker_News_ID: 35934504
+  :Posted_at: <2023-05-14 01:32>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/][FreeBSD 13.2 on ThinkPad T14 (GEN1)]]
+  :PROPERTIES:
+  :Title: FreeBSD 13.2 on ThinkPad T14 (GEN1)
+  :Hacker_News_ID: 35934445
+  :Posted_at: <2023-05-14 01:19>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://anvaka.github.io/map-of-github/][Hundreds of millions of stars turned into a map of GitHub projects]]
+  :PROPERTIES:
+  :Title: Hundreds of millions of stars turned into a map of GitHub projects
+  :Hacker_News_ID: 35931402
+  :Posted_at: <2023-05-13 18:47>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas that interest you.
+
+* [[https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose][Instead of your Life's Purpose (2021)]]
+  :PROPERTIES:
+  :Title: Instead of your Life's Purpose (2021)
+  :Hacker_News_ID: 35934364
+  :Posted_at: <2023-05-14 01:01>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html][My dad built a cool thing but never boasted about it]]
+  :PROPERTIES:
+  :Title: My dad built a cool thing but never boasted about it
+  :Hacker_News_ID: 35934903
+  :Posted_at: <2023-05-14 02:48>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/][Metal-filtering sponge removes lead from water]]
+  :PROPERTIES:
+  :Title: Metal-filtering sponge removes lead from water
+  :Hacker_News_ID: 35934163
+  :Posted_at: <2023-05-14 00:23>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://www.maa.org/external_archive/devlin/LockhartsLament.pdf][A Mathematician's Lament (2002) [pdf]]]
+  :PROPERTIES:
+  :Title: A Mathematician's Lament (2002) [pdf]
+  :Hacker_News_ID: 35929333
+  :Posted_at: <2023-05-13 15:31>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is not about any of the technical areas that interest me.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is not about any of the technical areas that interest me.
+
+* [[https://github.com/ryanmcgrath/cacao][macOS Apps in Rust]]
+  :PROPERTIES:
+  :Title: macOS Apps in Rust
+  :Hacker_News_ID: 35934799
+  :Posted_at: <2023-05-14 02:24>
+  :Review_score: 4
+  :Reviewed_at: <2023-05-14 09:27>
+  :Review_comment: The story is about a technical area that interests me (Rust bindings for macOS), and the Hacker News score is high (126). The date of the story is today (2023-05-14), which also increases my interest.
+  :END:
+
+** Review
+- Review score :: 4
+- Reviewed at :: <2023-05-14 09:27>
+- Review comment :: The story is about a technical area that interests me (Rust bindings for macOS), and the Hacker News score is high (126). The date of the story is today (2023-05-14), which also increases my interest.
+** Summary
+The GitHub repository "cacao" provides Rust bindings for AppKit and UIKit on macOS, iOS, and tvOS. It is experimental but functional, with 989 stars and 43 forks. The repository is licensed under MIT and MPL-2.0 licenses. It also offers various GitHub features such as code review, issues, and pull requests.
+
+* [[http://www.os2museum.com/wp/idle-dr-dos/][Idle DR-DOS]]
+  :PROPERTIES:
+  :Title: Idle DR-DOS
+  :Hacker_News_ID: 35931368
+  :Posted_at: <2023-05-13 18:43>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:28>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:28>
+- Review comment :: The story is not about any of the technical areas that interest you.
+
+* [[None][Ask HN: I am overflowing with ideas but never finish anything]]
+  :PROPERTIES:
+  :Title: Ask HN: I am overflowing with ideas but never finish anything
+  :Hacker_News_ID: 35936139
+  :Posted_at: <2023-05-14 07:40>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:28>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:28>
+- Review comment :: The story is not about any of the technical areas that interest you.
+
+* [[https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/][Gamedev from Scratch 1: Scaffolding]]
+  :PROPERTIES:
+  :Title: Gamedev from Scratch 1: Scaffolding
+  :Hacker_News_ID: 35908617
+  :Posted_at: <2023-05-11 21:28>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:28>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:28>
+- Review comment :: The story is not about any of the technical areas that interest you.
+
+* [[https://github.com/s-JoL/Open-Llama][Open-Lamam: A “real” open-source project to train LLM not just checkpoints]]
+  :PROPERTIES:
+  :Title: Open-Lamam: A “real” open-source project to train LLM not just checkpoints
+  :Hacker_News_ID: 35934458
+  :Posted_at: <2023-05-14 01:21>
+  :Review_score: 5
+  :Reviewed_at: <2023-05-14 09:28>
+  :Review_comment: The story is about a technical area that interests me (LSTM and deep learning), has a high Hacker News score (30), and was submitted on the same day (2023-05-14).
+  :END:
+
+** Review
+- Review score :: 5
+- Reviewed at :: <2023-05-14 09:28>
+- Review comment :: The story is about a technical area that interests me (LSTM and deep learning), has a high Hacker News score (30), and was submitted on the same day (2023-05-14).
+** Summary
+The Open-Llama repository on GitHub contains the complete training code for an open-source high-performance Llama model, including the full process from pre-training to RLHF. It has 423 stars and 47 forks, and is licensed under the MIT license.
+
+* [[https://archive.org/details/byte-magazine-1981-09][Byte Magazine Volume 06 Number 09 – Artificial Intelligence (1981)]]
+  :PROPERTIES:
+  :Title: Byte Magazine Volume 06 Number 09 – Artificial Intelligence (1981)
+  :Hacker_News_ID: 35927571
+  :Posted_at: <2023-05-13 12:06>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 09:28>
+  :Review_comment: The story is about a technical area that interests me (AI, machine learning), but it is from 1981 and therefore not recent.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 09:28>
+- Review comment :: The story is about a technical area that interests me (AI, machine learning), but it is from 1981 and therefore not recent.

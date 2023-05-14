@@ -3,7 +3,6 @@ from langchain.chains import LLMChain
 from langchain.callbacks.manager import CallbackManagerForChainRun
 from langchain.output_parsers import RetryWithErrorOutputParser
 from langchain.output_parsers.pydantic import OutputParserException
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from typing import Any, Dict, List, Optional
 
 from ...hnclient import HackerNewsStory
@@ -13,9 +12,6 @@ logger = logging.getLogger(__name__)
 
 
 class ReviewerChain(LLMChain):
-
-    STORY_CHUNK_SIZE = 2_000
-    SPLITTER_MODEL_NAME = "gpt-3.5-turbo"
 
     prompt = PROMPT
 
@@ -28,11 +24,7 @@ class ReviewerChain(LLMChain):
         inputs: Dict[str, Any],
         run_manager: Optional[CallbackManagerForChainRun] = None,
     ) -> Dict[str, str]:
-        story = get_story_string(
-            inputs["story"],
-            self.SPLITTER_MODEL_NAME,
-            self.STORY_CHUNK_SIZE
-        )
+        story = get_story_string(inputs["story"])
         retry_parser = RetryWithErrorOutputParser.from_llm(parser=output_parser, llm=self.llm)
         output = super()._call({"story": story}, run_manager=run_manager)
 
@@ -58,28 +50,13 @@ class ReviewerChain(LLMChain):
         raise NotImplementedError()
 
 
-def get_story_string(
-        story: HackerNewsStory,
-        splitter_model_name: str,
-        story_chunk_size: int,
-) -> str:
-    text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
-        model_name=splitter_model_name,
-        chunk_size=story_chunk_size,
-        chunk_overlap=0,
-    )
+def get_story_string(story: HackerNewsStory) -> str:
+    text = story.documents[0].page_content if story.documents else ""
 
-    story_string = f"""Title: {story.title}
+    return f"""Title: {story.title}
 
 Submitted at: {story.posted_at}
 
 Hacker News score: {story.score}
 
-Text: """
-
-    text = (
-        text_splitter.split_text(story.soup.get_text().replace("\n", " "))[0]
-        if story.soup else ""
-    )
-
-    return story_string + text
+Text: {text}"""

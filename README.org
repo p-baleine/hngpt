@@ -1,0 +1,32 @@
+#+title: hngpt
+
+This is an experimental application using [[https://langchain.com/][LangChain]] to collect [[https://news.ycombinator.com/][Hacker News]] stories that I think will be of interest.
+By =scripts/update.py=, [[examples/favorite-hacker-news-stories.org][./examples/favorite-hacker-news-stories.org]], which is written in Emacs Org format, would be populated with information on the top stories of Hacker News, along with reviews by ChatGPT.
+
+If you are interested, you can follow these steps to see how it works:
+
+1. Build the image
+   #+begin_src shell
+   docker build -t $(basename $(pwd)) .
+   #+end_src
+
+2. Setup .envrc
+   #+begin_src shell
+   cp .envrc.sample .envrc
+   vi .envrc  # Set up necessary environment variables
+   #+end_src
+
+31. Execute =scripts/update.py=
+    #+begin_src shell
+    make shell
+    python -m scripts.update --org-path examples/favorite-hacker-news-stories.org
+    #+end_src
+
+I write the following cron configuration to execute update command periodically:
+
+#+begin_src shell
+* */1 * * * cd /app && python -m scripts.update --org-path examples/favorite-hacker-news-stories.org
+#+end_src
+
+* TODO
+- [ ] Optimize =ITEMS_I_AM_INTERESTED_IN= by agents
