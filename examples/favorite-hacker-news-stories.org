@@ -311,3 +311,270 @@ The Open-Llama repository on GitHub contains the complete training code for an o
 - Review score :: 1
 - Reviewed at :: <2023-05-14 09:28>
 - Review comment :: The story is about a technical area that interests me (AI, machine learning), but it is from 1981 and therefore not recent.
+
+* [[https://www.arewesixelyet.com/#terminalapp][Are We Sixel Yet]]
+  :PROPERTIES:
+  :Title: Are We Sixel Yet
+  :Hacker_News_ID: 35936331
+  :Posted_at: <2023-05-14 08:23>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 10:10>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 10:10>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/][Making GHC faster at emitting code]]
+  :PROPERTIES:
+  :Title: Making GHC faster at emitting code
+  :Hacker_News_ID: 35936539
+  :Posted_at: <2023-05-14 09:06>
+  :Review_score: 3
+  :Reviewed_at: <2023-05-14 10:10>
+  :Review_comment: The story is about a technical area that interests me (Haskell), but it is not one of my top interests. The Hacker News score is relatively high, but the story is from December 2022, which is not very recent.
+  :END:
+
+** Review
+- Review score :: 3
+- Reviewed at :: <2023-05-14 10:10>
+- Review comment :: The story is about a technical area that interests me (Haskell), but it is not one of my top interests. The Hacker News score is relatively high, but the story is from December 2022, which is not very recent.
+** Summary
+Tweag Services has worked with Mercury to improve the speed of Haskell code compilation by making targeted improvements to the mechanism by which GHC emits compiled code. The native code generator (NCG) spends a surprisingly large amount of its time writing ASCII text, and GHC was using its internal SDoc abstraction to print assembly code, which was causing a significant amount of time and memory to be spent printing code. The improvements have resulted in a 2-3% reduction in compile times and a 5-10% reduction in allocations for unoptimized builds.
+
+* [[https://www.nature.com/articles/d41586-019-00353-0][Ancient-human species mingled in Siberia’s hottest property 300k years (2019)]]
+  :PROPERTIES:
+  :Title: Ancient-human species mingled in Siberia’s hottest property 300k years (2019)
+  :Hacker_News_ID: 35927818
+  :Posted_at: <2023-05-13 12:42>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 10:10>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 10:10>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc][How to run Llama 13B with a 6GB graphics card]]
+  :PROPERTIES:
+  :Title: How to run Llama 13B with a 6GB graphics card
+  :Hacker_News_ID: 35937505
+  :Posted_at: <2023-05-14 12:35>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 14:54>
+  :Review_comment: The story is about running a text prediction model called Llama 13B with a 6GB graphics card. While the story mentions natural language processing and large language models, it does not provide any technical details or insights into these areas. Additionally, the story is not recent (submitted on 2023-05-14) and has a high Hacker News score, which may indicate that it is popular but not necessarily technically informative.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 14:54>
+- Review comment :: The story is about running a text prediction model called Llama 13B with a 6GB graphics card. While the story mentions natural language processing and large language models, it does not provide any technical details or insights into these areas. Additionally, the story is not recent (submitted on 2023-05-14) and has a high Hacker News score, which may indicate that it is popular but not necessarily technically informative.
+
+* [[https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/][A secret macOS tool – networkQuality]]
+  :PROPERTIES:
+  :Title: A secret macOS tool – networkQuality
+  :Hacker_News_ID: 35936999
+  :Posted_at: <2023-05-14 10:45>
+  :Review_score: 2
+  :Reviewed_at: <2023-05-14 14:54>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 2
+- Reviewed at :: <2023-05-14 14:54>
+- Review comment :: The story is not about any of the technical areas that interest you.
+** Summary
+The networkQuality tool is a built-in tool in macOS Monterey that can diagnose network issues and measure network performance. It can be accessed through the Terminal app and has features such as running default tests, using Private Relay, and customizing the configuration. The tool also supports Apple's Private Relay feature for added privacy and security.
+
+* [[https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023][The World is Built on Probability (1984)]]
+  :PROPERTIES:
+  :Title: The World is Built on Probability (1984)
+  :Hacker_News_ID: 35937375
+  :Posted_at: <2023-05-14 12:07>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://easylang.dev/apps/tutorial_mcarlo.html][Monte Carlo methods]]
+  :PROPERTIES:
+  :Title: Monte Carlo methods
+  :Hacker_News_ID: 35927627
+  :Posted_at: <2023-05-13 12:15>
+  :Review_score: 3
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is about a technical area that interests me (Monte Carlo methods), but the Hacker News score is not very high (42) and the story is not very recent (submitted on 2023-05-13).
+  :END:
+
+** Review
+- Review score :: 3
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is about a technical area that interests me (Monte Carlo methods), but the Hacker News score is not very high (42) and the story is not very recent (submitted on 2023-05-13).
+** Summary
+The Law of Large Numbers is being discussed.
+
+* [[https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html][Building a Front End Framework; Reactivity, Composability with No Dependencies]]
+  :PROPERTIES:
+  :Title: Building a Front End Framework; Reactivity, Composability with No Dependencies
+  :Hacker_News_ID: 35937464
+  :Posted_at: <2023-05-14 12:26>
+  :Review_score: 2
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is not about any of the technical areas that interest me.
+  :END:
+
+** Review
+- Review score :: 2
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is not about any of the technical areas that interest me.
+** Summary
+The article discusses the benefits of using a frontend framework for reactivity and composability in web development. It explains how frameworks like Vue and React allow for easier manipulation of HTML and JavaScript code, and how reactivity and composability are achieved through these frameworks. The article also introduces the concept of Proxy objects in JavaScript, which can be used to listen for changes in data and update the UI automatically. The author suggests that modern Web APIs can achieve these benefits without the need for complex frameworks and dependencies.
+
+* [[https://smallbasic-publicwebsite.azurewebsites.net/][Microsoft Small Basic]]
+  :PROPERTIES:
+  :Title: Microsoft Small Basic
+  :Hacker_News_ID: 35926556
+  :Posted_at: <2023-05-13 08:06>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is not about any of the technical areas that interest you.
+
+* [[https://matt-rickard.com/instinct-and-culture][Knuth and McIlroy Approach a Problem (2021)]]
+  :PROPERTIES:
+  :Title: Knuth and McIlroy Approach a Problem (2021)
+  :Hacker_News_ID: 35915169
+  :Posted_at: <2023-05-12 12:24>
+  :Review_score: 4
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is about computer science and algorithms, which are technical areas that interest you. The Hacker News score is relatively high at 38, indicating that it is a popular story. The story was submitted in 2021, which is not the most recent, but still recent enough to be of interest.
+  :END:
+
+** Review
+- Review score :: 4
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is about computer science and algorithms, which are technical areas that interest you. The Hacker News score is relatively high at 38, indicating that it is a popular story. The story was submitted in 2021, which is not the most recent, but still recent enough to be of interest.
+** Summary
+Donald Knuth and Doug McIlroy were asked to write a program to print the k most common words in a text file. Knuth wrote a clever program in WEB, while McIlroy wrote a concise program using Unix commands. The story illustrates the differences between the two approaches and highlights the Unix philosophy, but it may be unfair to Knuth as he was trying to demonstrate his ideas on Literate programming.
+
+* [[https://viterbischool.usc.edu/news/2017/03/viterbi-algorithm-50/][The Viterbi Algorithm at 50 (2017)]]
+  :PROPERTIES:
+  :Title: The Viterbi Algorithm at 50 (2017)
+  :Hacker_News_ID: 35897851
+  :Posted_at: <2023-05-11 05:14>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is not about any of the technical areas that interest me.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is not about any of the technical areas that interest me.
+
+* [[https://news.northwestern.edu/stories/2023/05/chemotherapy-drug-reaches-brain-in-humans-for-first-time/][Chemotherapy drug reaches brain tumors using novel ultrasound technology]]
+  :PROPERTIES:
+  :Title: Chemotherapy drug reaches brain tumors using novel ultrasound technology
+  :Hacker_News_ID: 35937196
+  :Posted_at: <2023-05-14 11:32>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://www.tavus.io/careers][Tavus (YC S21) is hiring ML and full stack engineers]]
+  :PROPERTIES:
+  :Title: Tavus (YC S21) is hiring ML and full stack engineers
+  :Hacker_News_ID: 35937338
+  :Posted_at: <2023-05-14 12:00>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is not about any of the technical areas of interest and has a low Hacker News score.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is not about any of the technical areas of interest and has a low Hacker News score.
+
+* [[https://blog.aurynn.com/2015/12/16-contempt-culture][Contempt Culture (2015)]]
+  :PROPERTIES:
+  :Title: Contempt Culture (2015)
+  :Hacker_News_ID: 35935499
+  :Posted_at: <2023-05-14 05:14>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is not about any of the technical areas of interest.
+
+* [[https://thesystemsthinker.com/moving-from-blame-to-accountability/][Moving from Blame to Accountability]]
+  :PROPERTIES:
+  :Title: Moving from Blame to Accountability
+  :Hacker_News_ID: 35936865
+  :Posted_at: <2023-05-14 10:13>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is not about any of the technical areas of interest and the score is not high enough to compensate for it.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is not about any of the technical areas of interest and the score is not high enough to compensate for it.
+
+* [[https://rome.tools/blog/2023/05/10/rome12_1/][Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON]]
+  :PROPERTIES:
+  :Title: Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON
+  :Hacker_News_ID: 35929195
+  :Posted_at: <2023-05-13 15:18>
+  :Review_score: 2
+  :Reviewed_at: <2023-05-14 14:55>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 2
+- Reviewed at :: <2023-05-14 14:55>
+- Review comment :: The story is not about any of the technical areas that interest you.
+** Summary
+Rome v12.1.0 brings support for Stage 3 decorators, VCS integration, new lint rules, and a CLI library update. The release includes many new and promoted rules, and a new feature to check code via standard input. The update also includes a new help prompt and a new command to migrate configuration files in case of future breaking changes. Users can upgrade Rome by running a command or installing the VS Code extension.
+
+* [[https://www.atlasobscura.com/articles/dodecahedrons-roman-empire][The Mysterious Dodecahedrons of the Roman Empire]]
+  :PROPERTIES:
+  :Title: The Mysterious Dodecahedrons of the Roman Empire
+  :Hacker_News_ID: 35937540
+  :Posted_at: <2023-05-14 12:43>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 14:56>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 14:56>
+- Review comment :: The story is not about any of the technical areas of interest.
