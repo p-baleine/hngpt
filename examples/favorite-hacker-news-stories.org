@@ -5,17 +5,17 @@
   :Title: How to run Llama 13B with a 6GB graphics card
   :Hacker_News_ID: 35937505
   :Posted_at: <2023-05-14 12:35>
-  :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:47>
-  :Review_comment: The story is about running a text prediction model called Llama 13B with a 6GB graphics card. While the story mentions natural language processing and large language models, it does not provide any technical details or insights into these areas. Additionally, the story is not recent (submitted on 2023-05-14) and has a relatively low Hacker News score (211).
+  :Review_score: 2
+  :Reviewed_at: <2023-05-14 16:54>
+  :Review_comment: The story is about a technical area that interests me (GPT, Large language models, Natural language processing), but it is not specific to any of my preferred technical areas. The Hacker News score is high, but the date is today, so it is not particularly recent. Overall, my level of interest is moderate.
   :END:
 
 ** Review
-- Review score :: 1
-- Reviewed at :: <2023-05-14 16:47>
-- Review comment :: The story is about running a text prediction model called Llama 13B with a 6GB graphics card. While the story mentions natural language processing and large language models, it does not provide any technical details or insights into these areas. Additionally, the story is not recent (submitted on 2023-05-14) and has a relatively low Hacker News score (211).
+- Review score :: 2
+- Reviewed at :: <2023-05-14 16:54>
+- Review comment :: The story is about a technical area that interests me (GPT, Large language models, Natural language processing), but it is not specific to any of my preferred technical areas. The Hacker News score is high, but the date is today, so it is not particularly recent. Overall, my level of interest is moderate.
 ** Summary
-The article provides instructions on how to run Llama 13B, a text prediction model similar to GPT-2, with a 6GB graphics card. The latest change in llama.cpp allows users to pick an arbitrary number of transformer layers to be run on the GPU, which is perfect for low VRAM. The article also includes steps to apply for research access to the llama model and perform the conversion process to create a 4bit model. Finally, it provides instructions on how to create a prompt file and run the model.
+The article provides instructions on how to run Llama 13B, a text prediction model similar to GPT-2, with a 6GB graphics card. The latest change in llama.cpp allows users to pick an arbitrary number of transformer layers to be run on the GPU, which is perfect for low VRAM. The article also includes steps to apply for research access to the llama model and perform the conversion process to create a prompt file and run the model. The process uses about 5.5GB of memory.
 
 * [[https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/][MacOS networkQuality]]
   :PROPERTIES:
@@ -23,14 +23,14 @@ The article provides instructions on how to run Llama 13B, a text prediction mod
   :Hacker_News_ID: 35936999
   :Posted_at: <2023-05-14 10:45>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:48>
-  :Review_comment: The story is not about any of the technical areas that interest you.
+  :Reviewed_at: <2023-05-14 16:54>
+  :Review_comment: The story is not about any of the technical areas of interest.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:48>
-- Review comment :: The story is not about any of the technical areas that interest you.
+- Reviewed at :: <2023-05-14 16:54>
+- Review comment :: The story is not about any of the technical areas of interest.
 ** Summary
 The networkQuality tool is a built-in tool in macOS Monterey that can diagnose network issues and measure network performance. It can be accessed through the Terminal app and has features such as running default tests, using Private Relay, and customizing the configuration. The tool also supports Apple's Private Relay feature for added privacy and security.
 
@@ -40,13 +40,13 @@ The networkQuality tool is a built-in tool in macOS Monterey that can diagnose n
   :Hacker_News_ID: 35938691
   :Posted_at: <2023-05-14 15:27>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:48>
+  :Reviewed_at: <2023-05-14 16:55>
   :Review_comment: The story is not about any of the technical areas of interest.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:48>
+- Reviewed at :: <2023-05-14 16:55>
 - Review comment :: The story is not about any of the technical areas of interest.
 ** Summary
 The 16-meter-long RIME antenna on ESA's Jupiter Icy Moons Explorer (Juice) has finally been successfully deployed after being stuck for three weeks due to a jammed pin. The flight control team used various methods to try to shift the pin, including shaking Juice using its thrusters and warming it with sunlight. The antenna was finally released when a mechanical device called a 'non-explosive actuator' was fired, allowing the antenna to unfold. RIME will be used to study the surface and subsurface structure of Jupiter's icy moons down to a depth of 9 km.
@@ -57,13 +57,13 @@ The 16-meter-long RIME antenna on ESA's Jupiter Icy Moons Explorer (Juice) has f
   :Hacker_News_ID: 35927627
   :Posted_at: <2023-05-13 12:15>
   :Review_score: 4
-  :Reviewed_at: <2023-05-14 16:48>
+  :Reviewed_at: <2023-05-14 16:55>
   :Review_comment: The story is about a technical area that interests me (Monte Carlo methods), and has a high Hacker News score (95). The story is also recent (submitted on 2023-05-13).
   :END:
 
 ** Review
 - Review score :: 4
-- Reviewed at :: <2023-05-14 16:48>
+- Reviewed at :: <2023-05-14 16:55>
 - Review comment :: The story is about a technical area that interests me (Monte Carlo methods), and has a high Hacker News score (95). The story is also recent (submitted on 2023-05-13).
 ** Summary
 The Law of Large Numbers is being discussed.
@@ -74,16 +74,16 @@ The Law of Large Numbers is being discussed.
   :Hacker_News_ID: 35937375
   :Posted_at: <2023-05-14 12:07>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:48>
+  :Reviewed_at: <2023-05-14 16:55>
   :Review_comment: The story is not about any of the technical areas of interest.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:48>
+- Reviewed at :: <2023-05-14 16:55>
 - Review comment :: The story is not about any of the technical areas of interest.
 ** Summary
-"The World Is Built On Probability" is a book available for free download on the Internet Archive. It explores the concept of probability and its role in shaping the world. The Internet Archive is a digital library that offers access to a wide range of books, images, audio, and video content.
+"The World Is Built On Probability" is a book available for free download on the Internet Archive. It explores the concept of probability and its role in shaping the world. The Internet Archive is a digital library that offers access to a wide range of books, images, audio recordings, and other materials.
 
 * [[https://smallbasic-publicwebsite.azurewebsites.net/][Microsoft Small Basic]]
   :PROPERTIES:
@@ -91,16 +91,50 @@ The Law of Large Numbers is being discussed.
   :Hacker_News_ID: 35926556
   :Posted_at: <2023-05-13 08:06>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:48>
+  :Reviewed_at: <2023-05-14 16:55>
   :Review_comment: The story is not about any of the technical areas that interest you.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:48>
+- Reviewed at :: <2023-05-14 16:55>
 - Review comment :: The story is not about any of the technical areas that interest you.
 ** Summary
 Small Basic is a programming language designed to teach beginners the basics of coding.
+
+* [[https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-cancelling-headphones-fix-yourself-bluetooth][Fairbuds XL review: the excellent noise-cancelling headphones you can fix]]
+  :PROPERTIES:
+  :Title: Fairbuds XL review: the excellent noise-cancelling headphones you can fix
+  :Hacker_News_ID: 35900369
+  :Posted_at: <2023-05-11 10:50>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 16:56>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 16:56>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+The Fairbuds XL are noise-cancelling Bluetooth headphones designed for easy at-home repairs, making them more sustainable. Produced by Fairphone, a company focused on ethical and repairable electronics, the headphones are made from recycled materials and Fairtrade gold. They have a removable battery, swappable ear cushions, and break down into nine modular components. The headphones have a joystick for easy control and a 26-hour battery life with multipoint Bluetooth connectivity. They do not have a sensor to detect when they are removed, but call quality is excellent.
+
+* [[https://eriktorenberg.substack.com/p/the-techlash-that-never-happened][The Techlash That Never Happened]]
+  :PROPERTIES:
+  :Title: The Techlash That Never Happened
+  :Hacker_News_ID: 35939054
+  :Posted_at: <2023-05-14 16:17>
+  :Review_score: 2
+  :Reviewed_at: <2023-05-14 16:56>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 2
+- Reviewed at :: <2023-05-14 16:56>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+The "Techlash" phenomenon, which describes rising hostility towards tech, may have been primarily a media phenomenon rather than a reflection of the American public's sentiment towards tech. While the average American likes using tech products, the media has seen a decline in positive coverage of tech companies, coinciding with Facebook's revenue surpassing newspaper advertising revenue in 2013. The turn against tech by some parts of the Democratic Party may also be due to tech's economic attacks on traditional left power centers, undercutting their prestige and influence, and pulling away their top talent.
 
 * [[https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html][Building a Front End Framework; Reactivity, Composability with No Dependencies]]
   :PROPERTIES:
@@ -108,13 +142,13 @@ Small Basic is a programming language designed to teach beginners the basics of 
   :Hacker_News_ID: 35937464
   :Posted_at: <2023-05-14 12:26>
   :Review_score: 2
-  :Reviewed_at: <2023-05-14 16:48>
+  :Reviewed_at: <2023-05-14 16:56>
   :Review_comment: The story is not about any of the technical areas that interest me.
   :END:
 
 ** Review
 - Review score :: 2
-- Reviewed at :: <2023-05-14 16:48>
+- Reviewed at :: <2023-05-14 16:56>
 - Review comment :: The story is not about any of the technical areas that interest me.
 ** Summary
 The article discusses the benefits of using a frontend framework for reactivity and composability in web development. It explains how frameworks like Vue and React allow for easier manipulation of HTML and JavaScript code, and how reactivity and composability are achieved through these frameworks. The article also introduces the concept of Proxy objects in JavaScript, which can be used to listen for changes in data and update the UI automatically. The author suggests that modern Web APIs can achieve these benefits without the need for complex frameworks and dependencies.
@@ -125,33 +159,16 @@ The article discusses the benefits of using a frontend framework for reactivity 
   :Hacker_News_ID: 35937196
   :Posted_at: <2023-05-14 11:32>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:48>
+  :Reviewed_at: <2023-05-14 16:57>
   :Review_comment: The story is not about any of the technical areas of interest.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:48>
+- Reviewed at :: <2023-05-14 16:57>
 - Review comment :: The story is not about any of the technical areas of interest.
 ** Summary
 Northwestern Medicine scientists have used a novel, skull-implantable ultrasound device to open the blood-brain barrier and repeatedly permeate large, critical regions of the human brain to deliver chemotherapy that was injected intravenously. The four-minute procedure to open the blood-brain barrier is performed with the patient awake, and patients go home after a few hours. The results show the treatment is safe and well tolerated, with some patients getting up to six cycles of treatment. This is the first study to successfully quantify the effect of ultrasound-based blood-brain barrier opening on the concentrations of chemotherapy in the human brain.
-
-* [[https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-cancelling-headphones-fix-yourself-bluetooth][Fairbuds XL review: the excellent noise-cancelling headphones you can fix]]
-  :PROPERTIES:
-  :Title: Fairbuds XL review: the excellent noise-cancelling headphones you can fix
-  :Hacker_News_ID: 35900369
-  :Posted_at: <2023-05-11 10:50>
-  :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:49>
-  :Review_comment: The story is not about any of the technical areas of interest.
-  :END:
-
-** Review
-- Review score :: 1
-- Reviewed at :: <2023-05-14 16:49>
-- Review comment :: The story is not about any of the technical areas of interest.
-** Summary
-The Fairbuds XL are noise-cancelling Bluetooth headphones designed for easy at-home repairs, making them more sustainable than other headphones on the market. Produced by Fairphone, a company focused on creating ethical and repairable electronics, the headphones are made from recycled materials and Fairtrade gold. They have a removable battery, swappable ear cushions, and are splash-resistant. The headphones have a joystick for easy control and a 26-hour battery life with multipoint Bluetooth connectivity. The only downside is the lack of a sensor to pause music when the headphones are removed.
 
 * [[https://www.arewesixelyet.com/][Are We Sixel Yet]]
   :PROPERTIES:
@@ -159,13 +176,13 @@ The Fairbuds XL are noise-cancelling Bluetooth headphones designed for easy at-h
   :Hacker_News_ID: 35936331
   :Posted_at: <2023-05-14 08:23>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:49>
+  :Reviewed_at: <2023-05-14 16:57>
   :Review_comment: The story is not about any of the technical areas of interest.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:49>
+- Reviewed at :: <2023-05-14 16:57>
 - Review comment :: The story is not about any of the technical areas of interest.
 ** Summary
 The website "Are We Sixel Yet?" lists the support for the SIXEL graphics format across various terminal emulators. SIXEL allows the terminal to display bitmap graphics. The site provides information on how to determine SIXEL support for a terminal and lists the status of support for various emulators, including Alacritty, Black Box, ConEmu, and more. Some emulators are unsupported, while others require patches or updates to enable SIXEL support.
@@ -175,15 +192,15 @@ The website "Are We Sixel Yet?" lists the support for the SIXEL graphics format 
   :Title: The Viterbi Algorithm at 50 (2017)
   :Hacker_News_ID: 35897851
   :Posted_at: <2023-05-11 05:14>
-  :Review_score: 2
-  :Reviewed_at: <2023-05-14 16:49>
-  :Review_comment: The story is about a technical area that interests me (dynamic programming), but it is not recent (2017) and the Hacker News score is not high enough to compensate for that.
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 16:57>
+  :Review_comment: The story is not about any of the technical areas that interest me.
   :END:
 
 ** Review
-- Review score :: 2
-- Reviewed at :: <2023-05-14 16:49>
-- Review comment :: The story is about a technical area that interests me (dynamic programming), but it is not recent (2017) and the Hacker News score is not high enough to compensate for that.
+- Review score :: 1
+- Reviewed at :: <2023-05-14 16:57>
+- Review comment :: The story is not about any of the technical areas that interest me.
 ** Summary
 The server is denying access to the requested resource.
 
@@ -193,14 +210,14 @@ The server is denying access to the requested resource.
   :Hacker_News_ID: 35936463
   :Posted_at: <2023-05-14 08:51>
   :Review_score: 5
-  :Reviewed_at: <2023-05-14 16:49>
-  :Review_comment: The story is about Lisp, which is a technical area of interest to the user. The Hacker News score is high (108), indicating that the story is popular among the community. Although the story was submitted in 2005, it is still relevant to the user's interests.
+  :Reviewed_at: <2023-05-14 16:57>
+  :Review_comment: The story is about Lisp, which is a technical area of interest. The Hacker News score is high (108), indicating that it is a popular and well-received article. Although the story was submitted in 2023, it is about a book published in 2005, which may be less relevant to current developments in Lisp. However, the content of the book may still be valuable for learning and understanding Common Lisp.
   :END:
 
 ** Review
 - Review score :: 5
-- Reviewed at :: <2023-05-14 16:49>
-- Review comment :: The story is about Lisp, which is a technical area of interest to the user. The Hacker News score is high (108), indicating that the story is popular among the community. Although the story was submitted in 2005, it is still relevant to the user's interests.
+- Reviewed at :: <2023-05-14 16:57>
+- Review comment :: The story is about Lisp, which is a technical area of interest. The Hacker News score is high (108), indicating that it is a popular and well-received article. Although the story was submitted in 2023, it is about a book published in 2005, which may be less relevant to current developments in Lisp. However, the content of the book may still be valuable for learning and understanding Common Lisp.
 ** Summary
 "Successful Lisp" is a book that provides an overview of Common Lisp for working programmers, introducing key concepts in an easy-to-read format and describing the format, typical use, and possible drawbacks of all important Lisp constructs. It also provides practical advice for the construction of Common Lisp programs, shows examples of how Common Lisp is best used, and illustrates and compares features of the most popular Common Lisp systems on desktop computers. The book includes discussion and examples of advanced constructs for iteration, error handling, object-oriented programming, graphical user interfaces, and threading, and supplements Common Lisp reference books and manuals with useful hands-on techniques. The author is David B. Lamkins, and the book is copyrighted and may not be reproduced without his written consent. Online distribution is restricted to the author's site.
 
@@ -210,13 +227,13 @@ The server is denying access to the requested resource.
   :Hacker_News_ID: 35937540
   :Posted_at: <2023-05-14 12:43>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:49>
+  :Reviewed_at: <2023-05-14 16:57>
   :Review_comment: The story is not about any of the technical areas of interest.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:49>
+- Reviewed at :: <2023-05-14 16:57>
 - Review comment :: The story is not about any of the technical areas of interest.
 ** Summary
 The article discusses the mysterious dodecahedrons of the Roman Empire, which were first discovered centuries ago and their purpose is still unknown. The article includes a photo of one of the dodecahedrons found in Avenches, Switzerland.
@@ -227,33 +244,16 @@ The article discusses the mysterious dodecahedrons of the Roman Empire, which we
   :Hacker_News_ID: 35936044
   :Posted_at: <2023-05-14 07:18>
   :Review_score: 2
-  :Reviewed_at: <2023-05-14 16:49>
-  :Review_comment: The story is about Debian, which is not one of my technical areas of interest.
+  :Reviewed_at: <2023-05-14 16:58>
+  :Review_comment: The story is about a technical area that interests me (Python), but it is not directly related to any of my other areas of interest. The Hacker News score is high, but the story is not very recent.
   :END:
 
 ** Review
 - Review score :: 2
-- Reviewed at :: <2023-05-14 16:49>
-- Review comment :: The story is about Debian, which is not one of my technical areas of interest.
+- Reviewed at :: <2023-05-14 16:58>
+- Review comment :: The story is about a technical area that interests me (Python), but it is not directly related to any of my other areas of interest. The Hacker News score is high, but the story is not very recent.
 ** Summary
 The interactive application firewall OpenSnitch package in Debian is now ready for use after some delays due to missing packages. The latest fixes are now available for Debian Bookworm, and a bug in the package dependencies has been fixed. The package is still unable to build its eBPF module within Debian, but it has already proven its worth in discovering surprising connections from programs believed to work offline. Users can test the package by installing it with "apt install opensnitch" in Bookworm. Bitcoin donations are accepted for support.
-
-* [[https://rome.tools/blog/2023/05/10/rome12_1/][Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON]]
-  :PROPERTIES:
-  :Title: Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON
-  :Hacker_News_ID: 35929195
-  :Posted_at: <2023-05-13 15:18>
-  :Review_score: 2
-  :Reviewed_at: <2023-05-14 16:50>
-  :Review_comment: The story is not about any of the technical areas that interest you.
-  :END:
-
-** Review
-- Review score :: 2
-- Reviewed at :: <2023-05-14 16:50>
-- Review comment :: The story is not about any of the technical areas that interest you.
-** Summary
-Rome v12.1.0 brings support for Stage 3 decorators, VCS integration, new lint rules, and a CLI library update. The release includes many new and promoted rules, and a new feature to check code via standard input. The update also includes a new help prompt and a new command to migrate configuration files in case of future breaking changes. Users can upgrade Rome by running a command or installing the VS Code extension.
 
 * [[https://www.tavus.io/careers][Tavus (YC S21) is hiring ML and full stack engineers]]
   :PROPERTIES:
@@ -261,33 +261,16 @@ Rome v12.1.0 brings support for Stage 3 decorators, VCS integration, new lint ru
   :Hacker_News_ID: 35937338
   :Posted_at: <2023-05-14 12:00>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:50>
-  :Review_comment: The story is not about any of the technical areas of interest and has a low Hacker News score.
+  :Reviewed_at: <2023-05-14 16:58>
+  :Review_comment: The story does not provide any information about the technical areas of interest.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:50>
-- Review comment :: The story is not about any of the technical areas of interest and has a low Hacker News score.
+- Reviewed at :: <2023-05-14 16:58>
+- Review comment :: The story does not provide any information about the technical areas of interest.
 ** Summary
 Tavus, a young and fast-growing company backed by Y Combinator and Sequoia Capital, has raised $6.1 million. The company is looking for talented individuals who share their core principles of learning, collaboration, transparency, experimentation, and drive. Tavus offers comprehensive medical, dental, and vision coverage, unlimited paid time off, flexible working styles, and a yearly stipend for learning materials. They prioritize action and efficiency, put people first, are data-driven, and customer-obsessed. Tavus leverages AI to foster deeper, more personal connections between people.
-
-* [[https://thesystemsthinker.com/moving-from-blame-to-accountability/][Moving from Blame to Accountability]]
-  :PROPERTIES:
-  :Title: Moving from Blame to Accountability
-  :Hacker_News_ID: 35936865
-  :Posted_at: <2023-05-14 10:13>
-  :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:50>
-  :Review_comment: The story is not about any of the technical areas that interest you.
-  :END:
-
-** Review
-- Review score :: 1
-- Reviewed at :: <2023-05-14 16:50>
-- Review comment :: The story is not about any of the technical areas that interest you.
-** Summary
-The server is denying access to the requested resource.
 
 * [[https://blog.aurynn.com/2015/12/16-contempt-culture][Contempt Culture (2015)]]
   :PROPERTIES:
@@ -295,16 +278,50 @@ The server is denying access to the requested resource.
   :Hacker_News_ID: 35935499
   :Posted_at: <2023-05-14 05:14>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:50>
+  :Reviewed_at: <2023-05-14 16:58>
   :Review_comment: The story is not about any of the technical areas of interest.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:50>
+- Reviewed at :: <2023-05-14 16:58>
 - Review comment :: The story is not about any of the technical areas of interest.
 ** Summary
 The author reflects on their past behavior of being highly critical of other programming languages and developers, perpetuating a culture of contempt in the tech industry. They were called out on their behavior and realized the harm it caused to those from minority backgrounds. The author acknowledges that intent does not excuse the harm caused and that perpetuating contempt was a means of acquiring credibility and avoiding difficult introspection. They urge for a change in the culture of the tech industry to be more inclusive and accepting of diverse backgrounds and narratives.
+
+* [[https://rome.tools/blog/2023/05/10/rome12_1/][Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON]]
+  :PROPERTIES:
+  :Title: Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON
+  :Hacker_News_ID: 35929195
+  :Posted_at: <2023-05-13 15:18>
+  :Review_score: 2
+  :Reviewed_at: <2023-05-14 16:58>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 2
+- Reviewed at :: <2023-05-14 16:58>
+- Review comment :: The story is not about any of the technical areas that interest you.
+** Summary
+Rome v12.1.0 brings support for Stage 3 decorators, VCS integration, new lint rules, and a CLI library update. The release includes many new and promoted rules, and a new feature to check code via standard input. The update also includes a new help prompt and a new command to migrate configuration files in case of future breaking changes. Users can upgrade Rome by running a command or installing the VS Code extension.
+
+* [[https://thesystemsthinker.com/moving-from-blame-to-accountability/][Moving from Blame to Accountability]]
+  :PROPERTIES:
+  :Title: Moving from Blame to Accountability
+  :Hacker_News_ID: 35936865
+  :Posted_at: <2023-05-14 10:13>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-14 16:59>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-14 16:59>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+The server is denying access to the requested resource.
 
 * [[https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html][My dad built a cool thing but never boasted about it]]
   :PROPERTIES:
@@ -312,30 +329,268 @@ The author reflects on their past behavior of being highly critical of other pro
   :Hacker_News_ID: 35934903
   :Posted_at: <2023-05-14 02:48>
   :Review_score: 1
-  :Reviewed_at: <2023-05-14 16:51>
+  :Reviewed_at: <2023-05-14 16:59>
   :Review_comment: The story is not about any of the technical areas of interest.
   :END:
 
 ** Review
 - Review score :: 1
-- Reviewed at :: <2023-05-14 16:51>
+- Reviewed at :: <2023-05-14 16:59>
 - Review comment :: The story is not about any of the technical areas of interest.
 ** Summary
 The author's father passed away in India and they remember him as an old-school father who enjoyed magic tricks and mathematical puzzles. He was a Bombay Sapper in the Indian army and was involved in the Bangladesh Liberation War as part of the 268 Engineer Regiment. He helped rebuild a bridge that had been destroyed by the Pakistani defenders and designed a distribution beam girder to support it.
 
-* [[https://github.com/melisgl/mgl][MGL: A Common Lisp machine learning library]]
+* [[https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/][ARM or x86? ISA Doesn’t Matter (2021)]]
   :PROPERTIES:
-  :Title: MGL: A Common Lisp machine learning library
-  :Hacker_News_ID: 35927790
-  :Posted_at: <2023-05-13 12:38>
+  :Title: ARM or x86? ISA Doesn’t Matter (2021)
+  :Hacker_News_ID: 35941183
+  :Posted_at: <2023-05-14 20:38>
+  :Review_score: 2
+  :Reviewed_at: <2023-05-15 00:29>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 2
+- Reviewed at :: <2023-05-15 00:29>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+The article argues that the instruction set architecture (ISA) of a CPU, whether it is ARM or x86, is not a significant factor in determining performance. Instead, the design of the CPU and its ability to efficiently process data and predict instructions is what matters. The article cites research and comments from experts to support this claim and notes that both ARM and x86 CPUs can be optimized for either low power or high performance.
+
+* [[https://www.nature.com/articles/s41477-023-01412-1][Human activities drive long-term old trees in human-dominated landscapes]]
+  :PROPERTIES:
+  :Title: Human activities drive long-term old trees in human-dominated landscapes
+  :Hacker_News_ID: 35941892
+  :Posted_at: <2023-05-14 22:23>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:29>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:29>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+A study using data from China has found that species with greater potential height, smaller leaf size, and diverse human utilization attributes have the highest probability of long-term persistence as old trees in human-dominated landscapes. The study also revealed that the persistence probabilities of human-associated species were relatively high in intensively cultivated areas, while the persistence probabilities of spontaneous species were relatively high in mountainous areas or regions inhabited by ethnic minorities. The study highlights the potential impacts of human activities on the long-term persistence of trees and the associated shifts in species composition in human-dominated landscapes.
+
+* [[https://archive.org/details/htewypc][How to Entertain with Your Pocket Calculator (1975)]]
+  :PROPERTIES:
+  :Title: How to Entertain with Your Pocket Calculator (1975)
+  :Hacker_News_ID: 35941315
+  :Posted_at: <2023-05-14 21:00>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:30>
+  :Review_comment: The story is not about any of the technical areas of interest and is from 1975, which is not recent.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:30>
+- Review comment :: The story is not about any of the technical areas of interest and is from 1975, which is not recent.
+** Summary
+The Internet Archive offers a free download and streaming of the book "How To Entertain With Your Pocket Calculator" by Oleg D. JefMenko, which provides tips and tricks for using a calculator for entertainment purposes. The book is available in digital format and can be accessed through the Internet Archive website.
+
+* [[https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee][Off-grid solar brings light, time and income to remotest villages]]
+  :PROPERTIES:
+  :Title: Off-grid solar brings light, time and income to remotest villages
+  :Hacker_News_ID: 35941200
+  :Posted_at: <2023-05-14 20:40>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:30>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:30>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+Off-grid solar systems are bringing limited access to electricity to remote villages in Indonesia, providing more hours in the day, more income, and more social gatherings. Before electricity came to these villages, the day ended when the sun went down, but now villagers can continue their work and children can study at night. Hundreds of millions of people globally lack access to electricity, and off-grid solar programs could be replicated across Indonesia to bring renewable energy to remote communities. Grassroots organizations are helping to provide imported home solar systems, which can power light bulbs and charge cellphones, for monthly payments.
+
+* [[https://plato.stanford.edu/entries/logic-combinatory/][Combinatory Logic]]
+  :PROPERTIES:
+  :Title: Combinatory Logic
+  :Hacker_News_ID: 35941979
+  :Posted_at: <2023-05-14 22:37>
+  :Review_score: 2
+  :Reviewed_at: <2023-05-15 00:30>
+  :Review_comment: The story is about a technical area that interests me (Lisp), but the Hacker News score is relatively low and the story is not recent (published in 2020).
+  :END:
+
+** Review
+- Review score :: 2
+- Reviewed at :: <2023-05-15 00:30>
+- Review comment :: The story is about a technical area that interests me (Lisp), but the Hacker News score is relatively low and the story is not recent (published in 2020).
+** Summary
+Combinatory logic is a logical theory that simplifies the problem of substitution by using combinators to eliminate bound variables. It has applications in computer science and mathematics, and can formalize recursive functions and arithmetic. Combinatory logic is also connected to nonclassical logics via typing and can emulate lambda-abstraction. It is susceptible to Gödel-type incompleteness theorems and is an archetypical term rewriting system.
+
+* [[https://j3s.sh/thought/vore-a-new-rss-feed-reader.html][Vore: A new RSS feed reader]]
+  :PROPERTIES:
+  :Title: Vore: A new RSS feed reader
+  :Hacker_News_ID: 35941533
+  :Posted_at: <2023-05-14 21:35>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:30>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:30>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+Jes has created a new RSS/Atom feed reader called Vore, which allows users to subscribe to feeds and displays their posts in a chronological list. The user experience was prioritized, with only one user input and no tagging. Vore has no OS dependencies and uses minimalistic dependencies. The public Vore instance has already seen 114 users, and Jes plans to maintain it indefinitely for free.
+
+* [[https://xstate.js.org/docs/][JavaScript State Machines and Statecharts]]
+  :PROPERTIES:
+  :Title: JavaScript State Machines and Statecharts
+  :Hacker_News_ID: 35941749
+  :Posted_at: <2023-05-14 22:05>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:30>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:30>
+- Review comment :: The story is not about any of the technical areas that interest you.
+** Summary
+XState is a JavaScript and TypeScript library for creating finite state machines and statecharts for modern web applications. It adheres to the SCXML specification and offers a range of packages, templates, and examples. The library can be used with React, Vue, Svelte, and Solid, and includes a visualizer for modeling and inspecting statecharts. Statecharts are a formalism for modeling stateful, reactive systems, and XState offers a declarative way to describe application behavior.
+
+* [[http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/][The Cathedral and the Bazaar (1999)]]
+  :PROPERTIES:
+  :Title: The Cathedral and the Bazaar (1999)
+  :Hacker_News_ID: 35939383
+  :Posted_at: <2023-05-14 17:01>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:30>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:30>
+- Review comment :: The story is not about any of the technical areas that interest you.
+** Summary
+"The Cathedral and the Bazaar" is an essay by Eric Steven Raymond that analyzes the success of the open-source project, fetchmail, and compares the "cathedral" model of software development with the "bazaar" model used in the Linux world. Raymond argues that the bazaar model, which involves releasing early and often and allowing many developers to contribute, is more effective at debugging software. He concludes that "Given enough eyeballs, all bugs are shallow" and explores the implications of this insight for the future of software development.
+
+* [[https://simonwillison.net/2023/Apr/25/dual-llm-pattern/][The Dual LLM pattern for building AI assistants that can resist prompt injection]]
+  :PROPERTIES:
+  :Title: The Dual LLM pattern for building AI assistants that can resist prompt injection
+  :Hacker_News_ID: 35925758
+  :Posted_at: <2023-05-13 05:08>
   :Review_score: 5
-  :Reviewed_at: <2023-05-14 16:51>
-  :Review_comment: The story is about Lisp, which is a technical area of interest. The Hacker News score is high (115) and the story was submitted recently (2023-05-13), which increases the level of interest.
+  :Reviewed_at: <2023-05-15 00:30>
+  :Review_comment: The story is about several technical areas that interest you, including GPT, Large language models, Prompt, and Natural language processing. The Hacker News score is high (73), indicating that it is a popular and well-received article. The story was submitted recently (May 13, 2023), which increases the level of interest.
   :END:
 
 ** Review
 - Review score :: 5
-- Reviewed at :: <2023-05-14 16:51>
-- Review comment :: The story is about Lisp, which is a technical area of interest. The Hacker News score is high (115) and the story was submitted recently (2023-05-13), which increases the level of interest.
+- Reviewed at :: <2023-05-15 00:30>
+- Review comment :: The story is about several technical areas that interest you, including GPT, Large language models, Prompt, and Natural language processing. The Hacker News score is high (73), indicating that it is a popular and well-received article. The story was submitted recently (May 13, 2023), which increases the level of interest.
 ** Summary
-The GitHub repository "melisgl/mgl" is a Common Lisp machine learning library with 369 stars and 32 forks. It is licensed under the MIT license and has 5 issues and 0 pull requests. The repository also offers various features such as code review, code management, and collaboration tools.
+The Dual LLM pattern is proposed as a solution to the prompt injection class of security vulnerabilities in AI assistants. The article discusses the use of tools by Large Language Models (LLMs) and the categories of attack that need to be addressed. The proposed solution involves creating two LLMs, one with privileged access to tools and the other quarantined from them. However, the article warns that social engineering attacks can still be a vulnerability and that gating actions on human approval may not be effective.
+
+* [[https://github.com/melisgl/mgl][MGL: Common Lisp machine learning library]]
+  :PROPERTIES:
+  :Title: MGL: Common Lisp machine learning library
+  :Hacker_News_ID: 35927790
+  :Posted_at: <2023-05-13 12:38>
+  :Review_score: 5
+  :Reviewed_at: <2023-05-15 00:31>
+  :Review_comment: The story is about a technical area that interests me (Lisp), has a high Hacker News score (152), and was submitted recently (2023-05-13).
+  :END:
+
+** Review
+- Review score :: 5
+- Reviewed at :: <2023-05-15 00:31>
+- Review comment :: The story is about a technical area that interests me (Lisp), has a high Hacker News score (152), and was submitted recently (2023-05-13).
+** Summary
+The GitHub repository "melisgl/mgl" is a Common Lisp machine learning library with 369 stars and 32 forks. It is licensed under the MIT license and has 5 issues and 0 pull requests. The commit does not belong to any branch on the repository. GitHub offers various features such as code review, code changes management, and collaboration outside of code. They also offer solutions for enterprise, teams, startups, and education. GitHub sponsors fund open source developers and The ReadME Project offers community articles.
+
+* [[https://groups.google.com/g/eunet.politics/c/LbrVEM7zp-Y/m/ae_hhAk9jd8J][Fall of the Berlin Wall on Usenet (1989)]]
+  :PROPERTIES:
+  :Title: Fall of the Berlin Wall on Usenet (1989)
+  :Hacker_News_ID: 35937637
+  :Posted_at: <2023-05-14 13:01>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:31>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:31>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+A group conversation from November 1989 discussing the fall of the Berlin Wall and the historic events that followed. Members of the group express their congratulations to the people of Germany and discuss the potential for reunification. Some members express concern about the lack of objectivism debates in the group.
+
+* [[https://github.com/ulrischa/badger_server_display][Pimoroni Badger W display server]]
+  :PROPERTIES:
+  :Title: Pimoroni Badger W display server
+  :Hacker_News_ID: 35941436
+  :Posted_at: <2023-05-14 21:21>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:31>
+  :Review_comment: The story is not about any of the technical areas that interest you.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:31>
+- Review comment :: The story is not about any of the technical areas that interest you.
+** Summary
+The GitHub repository ulrischa/badger_server_display contains code for a server display project. The repository offers various features such as automation, package hosting, vulnerability detection, and code review. The repository is public and has 6 stars and 0 forks. The commit does not belong to any branch on the repository.
+
+* [[https://en.wikipedia.org/wiki/Arthropod_head_problem][Arthropod head problem]]
+  :PROPERTIES:
+  :Title: Arthropod head problem
+  :Hacker_News_ID: 35927588
+  :Posted_at: <2023-05-13 12:09>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:31>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:31>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+The Arthropod head problem is a long-standing dispute in zoology concerning the segmental composition of the heads of various arthropod groups and how they are evolutionarily related to each other. The dispute has historically centered on the exact make-up of the insect head but has been widened to include other living arthropods and fossil forms. The topic has been based on insect embryology, but in recent years, a great deal of developmental molecular data has become available. The precise nature of the labrum and the pre-oral region of arthropods remains highly controversial.
+
+* [[https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit][Cybernetic Culture Research Unit]]
+  :PROPERTIES:
+  :Title: Cybernetic Culture Research Unit
+  :Hacker_News_ID: 35927197
+  :Posted_at: <2023-05-13 10:51>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:31>
+  :Review_comment: The story is not about any of the technical areas that interest me.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:31>
+- Review comment :: The story is not about any of the technical areas that interest me.
+** Summary
+The Cybernetic Culture Research Unit (CCRU) was an experimental cultural theorist collective formed in 1995 at Warwick University, England. Their work combined elements of cyberpunk and Gothic horror with critical theory, esotericism, numerology, and demonology. They were known for their concept of hyperstition, which involved the experimental science of self-fulfilling prophecies. The CCRU drew inspiration from various sources, including Gilles Deleuze and Félix Guattari's Anti-Oedipus and A Thousand Plateaus, H. P. Lovecraft, William Gibson, J. G. Ballard, and Carl Jung. The CCRU dissolved in 2003 and was never a sanctioned academic project, according to Warwick University.
+
+* [[https://en.wikipedia.org/wiki/Pfeilstorch][Pfeilstorch]]
+  :PROPERTIES:
+  :Title: Pfeilstorch
+  :Hacker_News_ID: 35939816
+  :Posted_at: <2023-05-14 17:49>
+  :Review_score: 1
+  :Reviewed_at: <2023-05-15 00:31>
+  :Review_comment: The story is not about any of the technical areas of interest.
+  :END:
+
+** Review
+- Review score :: 1
+- Reviewed at :: <2023-05-15 00:31>
+- Review comment :: The story is not about any of the technical areas of interest.
+** Summary
+The Pfeilstorch, or "arrow stork," is a stork that has been injured by an arrow while wintering in Africa and returns to Europe with the arrow still stuck in its body. The first and most famous Pfeilstorch was found in 1822 near the German village of Klütz, carrying a spear from central Africa in its neck. This discovery was crucial in understanding the migration of European birds, as before migration was understood, people struggled to explain the sudden annual disappearance of birds like the white stork and barn swallow. The Rostocker Pfeilstorch in particular proved that birds migrate long distances to wintering grounds. As of 2003, about 25 Pfeilstörche have been documented in Germany.

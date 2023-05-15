@@ -22,12 +22,6 @@ If you are interested, you can follow these steps to see how it works:
     python -m scripts.update --org-path examples/favorite-hacker-news-stories.org
     #+end_src
 
-I write the following cron configuration to execute update command periodically:
-
-#+begin_src shell
-* */1 * * * cd /app && python -m scripts.update --org-path examples/favorite-hacker-news-stories.org
-#+end_src
-
 * TODO
 
 - [ ] Optimize =ITEMS_I_AM_INTERESTED_IN= by agents

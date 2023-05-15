@@ -12,6 +12,7 @@ from typing import List
 ITEMS_I_AM_INTERESTED_IN = [
     "Python",
     "Lisp",
+    "GPT",
     "Deep learning",
     "Machine learning",
     "Large language models",
